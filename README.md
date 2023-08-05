@@ -1,16 +1,16 @@
-### Hi there 👋
+# CUPcqkeee
+![](https://komarev.com/ghpvc/?username=CUPcqkeee)
+[![Java](https://img.shields.io/badge/Java-Intermediate-orange)](https://www.java.com)
+[![Python](https://img.shields.io/badge/Python-Intermediate-blue)](https://www.python.org)
+[![CSS](https://img.shields.io/badge/CSS-Advanced-yellow)](https://www.w3.org/Style/CSS/Overview.en.html)
 
-<!--
-**CUPcqkeee/CUPcqkeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=https://cupcqkeee.mineskills.net)](https://git.io/typing-svg)
+## About me
 
-Here are some ideas to get you started:
+#### Меня зовут Максим, являюсь разработчиком в трёх направлениях программирования: **Java**, **Python** и **CSS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### За мной закреплены около десятков крупных проектов, начиная от написанных с 0 API для Майнкрафт серверов, заканчивая дискорд ботами, который по сей день продолжают работу на дискорд серверах.
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CUPcqkeee&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CUPcqkeee&layout=compact&theme=dark)](https://github.com/CUPcqke/github-readme-stats)
