@@ -13,4 +13,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CUPcqkeee&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CUPcqkeee&layout=compact&theme=dark)](https://github.com/CUPcqke/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CUPcqkeee&layout=compact&theme=dark)]
