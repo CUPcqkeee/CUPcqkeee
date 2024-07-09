@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-Intermediate-blue)](https://www.python.org)
 [![CSS](https://img.shields.io/badge/CSS-Advanced-yellow)](https://www.w3.org/Style/CSS/Overview.en.html)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=https://cupcqkeee.mineskills.net)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=САЙТ_В_РАЗРАБОТКЕ)](https://git.io/typing-svg)
 ## About me
 
 #### Меня зовут Максим, являюсь разработчиком в направлении программирования: **Python**.
