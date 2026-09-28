@@ -188,11 +188,11 @@ class Developer:
 </a>
 
 <a href="https://t.me/CUPcqkeee">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <a href="mailto:CUPcqkeee">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Yandex_Mail-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white"/>
 </a>
 
 </div>
