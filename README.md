@@ -12,5 +12,3 @@
 #### За мной закреплены множество самописных ботов для серверов дискорда, которые работают и по сей день
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CUPcqkeee&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CUPcqkeee&layout=compact&theme=dark)]
